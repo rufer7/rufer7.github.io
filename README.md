@@ -1,4 +1,4 @@
 blog
 ====
 
-My personal blog based on GitHub Pages
+This is my personal blog based on GitHub Pages
