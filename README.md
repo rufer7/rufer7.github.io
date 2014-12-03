@@ -1,10 +1,12 @@
 blog
 ====
 
-This is my [personal](http://rufer7.github.io/) blog based on Jekyll and hosted on GitHub Pages
+This is my personal blog based on GitHub Pages. Here I publish blog posts about different topics like technical posts, posts about sports and so on.
 
+Visit [here](http://rufer7.github.io/)
 
 [Information about GitHub Pages](https://help.github.com/categories/github-pages-basics/)
+
 
 License
 ===
@@ -14,3 +16,9 @@ The following directories and their contents are Copyright Marc Rufer. You may n
 * images/
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please.
+
+
+Local Jenkyll setup
+===
+
+Follow this [guide](https://help.github.com/articles/using-jekyll-with-pages/)
