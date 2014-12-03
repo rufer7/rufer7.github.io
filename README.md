@@ -22,3 +22,16 @@ Local Jenkyll setup
 ===
 
 Follow this [guide](https://help.github.com/articles/using-jekyll-with-pages/)
+
+Install the following IntelliJ plugins
+
+* Batch Scripts Support
+
+Create new run configuration of type `Batch` with the following settings
+
+    Name:               Serve blog
+    Script:             ${PROJECT_ROOT}/jekyll_serve.bat
+    Working directory:  ${PROJECT_ROOT}
+
+
+If you execute this run configuration you can then access the blog over `localhost:4000`
