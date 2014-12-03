@@ -3,3 +3,4 @@ _site/
 *.iml
 .idea
 atlassian-ide-plugin.xml
+Gemfile*
