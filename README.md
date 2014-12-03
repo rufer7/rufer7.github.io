@@ -23,6 +23,8 @@ Local Jenkyll setup
 
 Follow this [guide](https://help.github.com/articles/using-jekyll-with-pages/)
 
+### Run configuration in IntelliJ
+
 Install the following IntelliJ plugins
 
 * Batch Scripts Support
