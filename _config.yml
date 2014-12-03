@@ -1,3 +1,4 @@
 highlighter: pygments
 github: [Repository metadata]
 timezone: Europe/Zurich
+exclude: [jekyll_serve.bat, jekyll_update.bat]
