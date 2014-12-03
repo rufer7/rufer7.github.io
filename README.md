@@ -3,7 +3,7 @@ blog
 
 This is my personal blog based on GitHub Pages. Here I publish blog posts about different topics like technical posts, posts about sports and so on.
 
-Visit [here](http://rufer7.github.io/)
+[visit](http://rufer7.github.io/)
 
 [Information about GitHub Pages](https://help.github.com/categories/github-pages-basics/)
 
