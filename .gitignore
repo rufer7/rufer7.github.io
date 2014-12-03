@@ -8,5 +8,5 @@ _site/
 atlassian-ide-plugin.xml
 
 # Ruby
-/Gemfile
+Gemfile
 Gemfile.lock
