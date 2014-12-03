@@ -10,3 +10,6 @@ atlassian-ide-plugin.xml
 # Ruby
 Gemfile
 Gemfile.lock
+
+# Bash scripts
+*.bat
