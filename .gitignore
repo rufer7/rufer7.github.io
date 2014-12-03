@@ -1,6 +1,12 @@
+# Jenkyll
 _site/
 .sass-cache/
+
+# IDEA
 *.iml
 .idea
 atlassian-ide-plugin.xml
-Gemfile*
+
+# Ruby
+Gemfile
+Gemfile.lock
