@@ -2,3 +2,12 @@ highlighter: pygments
 github: [Repository metadata]
 timezone: Europe/Zurich
 exclude: [jekyll_serve.bat, jekyll_update.bat]
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "default"
+      author: "Marc Rufer"
