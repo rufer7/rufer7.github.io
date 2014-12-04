@@ -1,9 +1,10 @@
 blog
 ====
 
-This is my personal blog based on GitHub Pages. Here I publish blog posts about different topics like technical posts, posts about sports and so on.
+This is my personal blog based on GitHub Pages. Here I publish blog posts about different topics concerning computer science.
 
 [visit](http://rufer7.github.io/)
+
 
 [Information about GitHub Pages](https://help.github.com/categories/github-pages-basics/)
 
