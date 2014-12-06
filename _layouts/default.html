@@ -6,9 +6,14 @@
 
     <body>
         <div>
+            {% include top-navigation.html %}
+        </div>
+        <div>
             {% include author-bio.html %}
         </div>
-        {{ content }}
+        <div>
+            {{ content }}
+        </div>
     </body>
 
     <footer class="text-center">
