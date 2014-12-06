@@ -1,3 +1,6 @@
+# Jekyll configuration
+
+permalink:   /:categories/:title/
 highlighter: pygments
 github: [Repository metadata]
 timezone: Europe/Zurich
@@ -10,4 +13,25 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Marc Rufer"
+
+
+# Site owner
+
+owner:
+  name: Marc Rufer
+  avatar: bio-photo.jpg
+  bio: "Software developer"
+  email: rufermarc@gmail.com
+  disqus-shortname: Rufer
+  facebook: #username
+  twitter: #username
+  google:
+    plus: rufermarc
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  github: rufer7
+  stackoverflow: http://http://stackoverflow.com/users/2796003/rufer7
+  linkedin: #username
+  instagram: #username
