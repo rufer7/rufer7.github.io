@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rufer7/rufer7.github.io.svg?branch=master)](https://travis-ci.org/rufer7/rufer7.github.io)
+
 blog
 ====
 
