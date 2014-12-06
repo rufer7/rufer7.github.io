@@ -2,13 +2,9 @@ language: ruby
 rvm:
 - 2.1
 
-env:
-  global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
 before_script: chmod +x ./script/cibuild
 
-script: script/cibuild
+script: ./script/cibuild
 
 # branch whitelist
 branches:
@@ -17,3 +13,7 @@ branches:
 
 notifications:
   email: rufermarc@gmail.com
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
