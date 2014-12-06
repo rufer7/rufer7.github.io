@@ -19,7 +19,7 @@ defaults:
 
 owner:
   name: Marc Rufer
-  avatar: bio-photo.jpg
+  avatar: http://www.gravatar.com/avatar/1b0197d9f527c985a9ffe2c4f32086df
   bio: "Software developer"
   email: rufermarc@gmail.com
   disqus-shortname: Rufer
