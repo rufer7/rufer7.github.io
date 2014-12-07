@@ -1,5 +1,5 @@
 
-blog        [![Build Status](https://travis-ci.org/rufer7/rufer7.github.io.svg?branch=master)](https://travis-ci.org/rufer7/rufer7.github.io)
+blog                [![Build Status](https://travis-ci.org/rufer7/rufer7.github.io.svg?branch=master)](https://travis-ci.org/rufer7/rufer7.github.io)
 ===
 
 This is my personal blog based on GitHub Pages. Here I publish blog posts about different topics concerning computer science.
