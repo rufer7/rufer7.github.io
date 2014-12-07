@@ -25,6 +25,8 @@ Local Jenkyll setup
 
 Follow this [guide](https://help.github.com/articles/using-jekyll-with-pages/)
 
+If ruby is not working on Windows becuase of an ssl connection error try [this](https://gist.github.com/luislavena/f064211759ee0f806c88)
+
 ### Run configuration in IntelliJ
 
 Install the following IntelliJ plugins
