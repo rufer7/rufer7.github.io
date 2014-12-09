@@ -1,6 +1,6 @@
 ---
 layout: post
-category: reader experience
+category: reader-experience
 title: Javascript for beginners
 date: 26 Jun 2014
 tags: javascript book reader-experience
