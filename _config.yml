@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 title: rufer.web
-permalink:   /:category/:title/
+permalink:   /:categories/:title/
 highlighter: pygments
 github: [Repository metadata]
 timezone: Europe/Zurich
