@@ -11,6 +11,7 @@ This is my personal blog based on GitHub Pages. Here I publish blog posts about 
 
 License
 ===
+
 The following directories and their contents are Copyright Marc Rufer. You may not reuse anything therein without my permission:
 
 * _posts/
@@ -28,9 +29,8 @@ If ruby is not working on Windows becuase of an ssl connection error try [this](
 
 ### Run configuration in IntelliJ
 
-Install the following IntelliJ plugins
-
-* Batch Scripts Support
+Presupposed plugins
+* Batch Scripts Support Plugin
 
 Create new run configuration of type `Batch` with the following settings
 
