@@ -1,0 +1,18 @@
+.author-social {
+    display: block;
+}
+
+/* unvisited link */
+a:link {
+    color: #000000;
+}
+
+/* visited link */
+a:visited {
+    color: #C0C0C0;
+}
+
+/* mouse over link */
+a:hover {
+    color: #C0C0C0;
+}
