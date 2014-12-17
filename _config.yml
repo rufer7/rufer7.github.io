@@ -1,6 +1,6 @@
 # Jekyll configuration
 
-title: rufer.web
+title: rufer7.github.io
 permalink: /blog/:categories/:title.html
 highlighter: pygments
 github: [Repository metadata]
