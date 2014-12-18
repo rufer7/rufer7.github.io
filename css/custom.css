@@ -2,6 +2,14 @@
     display: block;
 }
 
+.panel-title {
+    font-weight: bold;
+}
+
+.nav-title {
+    font-weight: bold;
+}
+
 /* unvisited link */
 a:link {
     color: #000000;
