@@ -15,6 +15,11 @@ defaults:
     values:
       layout: "post"
 
+# Analytics
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-50573786-2'
 
 # Site owner
 
