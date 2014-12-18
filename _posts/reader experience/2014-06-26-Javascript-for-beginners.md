@@ -9,7 +9,7 @@ tags: javascript book reader-experience
 Because I didn’t know much about Javascript and only used it very little, I searched for a book about the basics of Javascript. I decided to read the book “Javascript for beginners” from Mark Lassoff. The announced prerequisites for reading this book are some knowledge in HTML and that you’re interested to learn to program in Javascript.
 
 
-<div style="float: left">
+<div class="inline-img-left">
     <img src="https://s3.amazonaws.com/academywebgraphics/bookimgs/PFABBook.png" alt="Book cover of Javascript for beginners"/>
 </div>
 
