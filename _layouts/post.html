@@ -7,8 +7,11 @@ layout: default
     <h1>{{ page.title }}</h1>
     <p>
         <span style="font-style: italic">
-            <i class="fa fa-user"></i> {{ author.name }}, <i class="fa fa-calendar"></i> {{ page.date | date_to_string }}
+            <i class="fa fa-user"></i> {{ author.name }} <i class="fa fa-calendar"></i> {{ page.date | date_to_string }} <i class="fa fa-tags"></i>
         </span>
+        {% for tag in page.tags %}
+            <span class="label label-default">{{ tag }}</span>
+        {% endfor %}
     </p>
     <div>{{ content }}</div>
 </div>
