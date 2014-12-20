@@ -1,6 +1,7 @@
+{% if site.owner.disqus-shortname %}
 <div>
     <script type="text/javascript">
-        var disqus_shortname = 'rufer7';
+        var disqus_shortname = '{{ site.owner.disqus-shortname }}';
 
         /* * * DON'T EDIT BELOW THIS LINE * * */
         (function () {
@@ -11,3 +12,4 @@
         }());
     </script>
 </div>
+{% endif %}
