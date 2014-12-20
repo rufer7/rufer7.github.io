@@ -20,4 +20,4 @@ On the whole, the book gives you a very good overview over all important parts o
 It seems like the author tried to not clutter up the chapters with too much code snippets and extractions of configuration files, but sometimes there are not all necessary information about the code printed in the book. In such cases I was lucky to have the complete source code of the example project available. If you prepare for the Liferay Certified Professional Developer exam as well, if you want to get introduced to Liferay or if you want to expand your knowledge about Liferay I can only recommend this book to you.
 
 
-This blog post is as well available on [mimacom blog](http://blog.mimacom.com/)
+This blog post is as well available on [__mimacom blog__](http://blog.mimacom.com/)
