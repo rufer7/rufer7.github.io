@@ -31,6 +31,10 @@ a:hover {
     display: block;
 }
 
+.panel {
+    border: none;
+}
+
 .panel-title {
     font-weight: bold;
 }
