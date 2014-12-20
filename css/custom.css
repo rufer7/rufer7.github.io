@@ -11,6 +11,7 @@ a:visited {
 /* mouse over link */
 a:hover {
     color: #C0C0C0;
+    text-decoration: none;
 }
 
 .nav-title {
