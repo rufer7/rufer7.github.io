@@ -31,8 +31,9 @@ a:hover {
     display: block;
 }
 
-.panel {
-    border: none;
+.post {
+    padding-bottom: 15px;
+    padding-top: 15px;
 }
 
 .panel-title {
