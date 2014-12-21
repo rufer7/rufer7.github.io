@@ -1,6 +1,5 @@
 # Jekyll configuration
 
-title: rufer7.github.io
 permalink: /blog/:categories/:title.html
 highlighter: pygments
 github: [Repository metadata]
@@ -36,3 +35,8 @@ owner:
   stackoverflow: 2796003/rufer7
   linkedin: #username
   instagram: #username
+
+# RSS-Feed
+name: Rufers Blog
+description: This is my personal blog based on GitHub Pages. Here I publish blog posts about different topics concerning computer science. Furthermore I will use it as a personal knowledge base.
+url: http://rufer7.github.io
