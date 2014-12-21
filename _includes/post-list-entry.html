@@ -1,0 +1,16 @@
+<div class="post">
+    <div>
+        <a href="{{ post.url }}">
+            <h3 class="panel-title">{{ post.title }}</h3>
+        </a>
+    </div>
+    <p>
+        {% if post.tags.size > 0 %}
+            <i class="fa fa-tags"></i>
+        {% endif %}
+        {% for tag in post.tags %}
+            <span class="label label-default">{{ tag }}</span>
+        {% endfor %}
+        {{ post.excerpt }}
+    </p>
+</div>

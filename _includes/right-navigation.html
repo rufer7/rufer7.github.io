@@ -1,13 +1,4 @@
-<h4>Categories</h4>
-<div id="cateogry-index">
-    {% for cat in site.categories %}
-        <a class="label label-info" href="/category/{{ cat | first }}.html">{{ cat | first }}</a>
-    {% endfor %}
-</div>
-
-<br>
-
-<h4>Blogs</h4>
+<h4>Posts</h4>
 <div id="post-index">
     {% for post in site.posts %}
         <a class="label label-info" href="{{ post.url }}">{{ post.title }}</a>
