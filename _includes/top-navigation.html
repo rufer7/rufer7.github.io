@@ -15,11 +15,11 @@
             <ul class="nav navbar-nav">
                 {% assign sorted_pages = (site.pages | sort: 'title') %}
                 {% for nav_entry in sorted_pages %}
-                {% if page.url == nav_entry.url %}
-                    <li class="active"><a href="{{nav_entry.url}}" class="active">{{nav_entry.title}}</a></li>
-                {% else %}
-                    <li><a href="{{nav_entry.url}}">{{ nav_entry.title }}</a></li>
-                {% endif %}
+                    {% if page.url == nav_entry.url %}
+                        <li class="active"><a href="{{nav_entry.url}}" class="active">{{nav_entry.title}}</a></li>
+                    {% else %}
+                        <li><a href="{{nav_entry.url}}">{{ nav_entry.title }}</a></li>
+                    {% endif %}
                 {% endfor %}
             </ul>
         </div>
