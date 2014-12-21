@@ -10,20 +10,20 @@ layout: default
     <p>This is my personal blog based on GitHub Pages. Here I publish blog posts about different topics concerning computer science. Furthermore I will use it as a personal knowledge base.</p>
 
     {% for post in site.posts %}
-    <div class="post">
-        <div>
-            <a href="{{ post.url }}">
-                <h3 class="panel-title">{{ post.title }}</h3>
-            </a>
+        <div class="post">
+            <div>
+                <a href="{{ post.url }}">
+                    <h3 class="panel-title">{{ post.title }}</h3>
+                </a>
+            </div>
+            <p>
+                <i class="fa fa-tags"></i>
+                {% for tag in post.tags %}
+                    <span class="label label-default">{{ tag }}</span>
+                {% endfor %}
+                {{ post.excerpt }}
+            </p>
         </div>
-        <p>
-            <i class="fa fa-tags"></i>
-            {% for tag in post.tags %}
-                <span class="label label-default">{{ tag }}</span>
-            {% endfor %}
-            {{ post.excerpt }}
-        </p>
-    </div>
     {% endfor %}
 
     <a href='#top' class="text-center">
