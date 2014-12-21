@@ -22,7 +22,7 @@ owner:
   name: Marc Rufer
   avatar: http://www.gravatar.com/avatar/1b0197d9f527c985a9ffe2c4f32086df
   bio: "Software engineer"
-  email: rufermarc@gmail.com
+  email:
   disqus-shortname: rufer7
   facebook: #username
   twitter: #username
@@ -34,6 +34,7 @@ owner:
     ad-slot:
   github: rufer7
   stackoverflow: 2796003/rufer7
+  xing: Marc_Rufer
   linkedin: #username
   instagram: #username
 
