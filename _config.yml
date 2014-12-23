@@ -21,7 +21,7 @@ defaults:
 owner:
   name: Marc Rufer
   avatar: http://www.gravatar.com/avatar/1b0197d9f527c985a9ffe2c4f32086df
-  bio: "Software engineer"
+  bio: "<span itemprop="role">Software engineer</span> @<span itemprop="organization">mimacom ag</span>"
   email:
   disqus-shortname: rufer7
   facebook: #username
