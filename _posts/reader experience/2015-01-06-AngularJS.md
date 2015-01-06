@@ -9,7 +9,7 @@ tags: angularJS book reader-experience
 For getting deeper knowledge concerning AngularJS I decided to read the book "AngularJS", which was written by Brad Green and Shyam Seshadri and published by O'Reilly. To understand the content you should be familiar with at least HTML and Javascript.
 
 <div>
-    <img src="{{ site.url }}/assets/angularjs_logo.jpg" alt="AngularJS-Logo"/>
+    <img src="{{ site.url }}/assets/angularjs_logo.png" alt="AngularJS-Logo"/>
 </div>
 
 
