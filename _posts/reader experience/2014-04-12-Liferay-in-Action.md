@@ -9,7 +9,7 @@ tags: liferay book reader-experience
 As a part of preparation for the Liferay Certified Professional Developer exam, I red this book about Liferay. Liferay is a Java based open source portal project, which offers a sophisticated programming interface for developers.
 
 <div class="inline-img-left">
-    <img src="http://www.manning.com/sezov/sezov_cover150.jpg" alt="Book cover of Liferay in Action"/>
+    <img src="{{ site.url }}/assets/book-covers/liferay-in-action.jpg" alt="Book cover of Liferay in Action"/>
 </div>
 
 The book Liferay in Action was authored by Richard Sezov Jr, Liferays Knowledge Manager and author of the Liferay Portal Administrator’s Guide. He also leads the team, which is responsible for the documentation and training materials. The book is mentioned as the official guide for building Liferay applications. The actual edition of the book covers Liferay version 6.1. That’s not the newest available version, but there were no fundamental changes concerning the concepts and the best practices of plugins development in version 6.2. The book addresses to Java developers with basic knowledge in web technologies. Experience with Liferay or with the Portlet API is not required.
