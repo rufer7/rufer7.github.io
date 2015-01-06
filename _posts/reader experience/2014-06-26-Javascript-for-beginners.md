@@ -10,7 +10,7 @@ Because I didn’t know much about Javascript and only used it very little, I se
 
 
 <div class="inline-img-left">
-    <img src="assets/book-covers/javascript-for-beginners.jpg" alt="Book cover of Javascript for beginners"/>
+    <img src="{{ site.url }}/assets/book-covers/javascript-for-beginners.jpg" alt="Book cover of Javascript for beginners"/>
 </div>
 
 The book is splitted up into 10 different chapters. It begins with an introduction chapter, where the prerequisites, some basic information about Javascript and the most important keywords are treated. The next few chapters are about conditions, dialog boxes, loops, arrays, functions and events. In the end of the book there are discussed some more Javascript specific topics like the string object, browser information and the document object. Like you can see the book is quite good structured, because the first few chapters cover some basic stuff and in the end more advanced topics are taught.
