@@ -8,6 +8,7 @@ tags: liferay book reader-experience
 
 As a part of preparation for the Liferay Certified Professional Developer exam, I red this book about Liferay. Liferay is a Java based open source portal project, which offers a sophisticated programming interface for developers.
 
+
 <div class="inline-img-left">
     <img src="{{ site.url }}/assets/book-covers/liferay-in-action.jpg" alt="Book cover of Liferay in Action"/>
 </div>
