@@ -3,7 +3,7 @@ layout: post
 category: reader-experience
 title: AngularJS
 date: 06 Jan 2015
-tags: angularJS book reader-experience
+tags: AngularJS book reader-experience
 ---
 
 For getting deeper knowledge concerning AngularJS I decided to read the book "AngularJS", which was written by Brad Green and Shyam Seshadri and published by O'Reilly. To understand the content you should be familiar with at least HTML and Javascript.
