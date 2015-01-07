@@ -16,5 +16,5 @@ By default IntelliJ 14 takes the user settings file under C:\Users\{user}\.m2\se
 3. Select the `override` checkbox on the line of `user settings file` and refer the project specific settings.xml-file
 
 <div class="inline-img-left">
-    <img src="{{ site.url }}/assets/screenshots/sample-settings.xml.png" alt="IDEA screenshot"/>
+    <img src="{{ site.url }}/assets/screenshots/override-settings.xml.png" alt="IDEA screenshot"/>
 </div>
