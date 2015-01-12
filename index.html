@@ -13,7 +13,7 @@ layout: default
     <div role="tabpanel">
 
         <!-- Nav tabs -->
-        <ul class="nav nav-justified" role="tablist">
+        <ul class="nav nav-pills nav-justified" role="tablist">
             <li role="presentation" class="active"><a href="#all" aria-controls="all" role="tab" data-toggle="tab">All</a></li>
             {% for category in site.categories %}
                 <li role="presentation"><a href="#{{ category | first }}" aria-controls="{{ category | first }}" role="tab" data-toggle="tab">{{ category | first }}</a></li>

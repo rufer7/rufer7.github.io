@@ -18,6 +18,12 @@ a:hover {
     font-weight: bold;
 }
 
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:hover,
+.nav-pills>li.active>a:focus {
+    background-color: #000000;
+}
+
 .footer {
     margin-top: 10px;
 }
