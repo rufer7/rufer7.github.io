@@ -3,7 +3,7 @@ Blog [![Build Status](https://travis-ci.org/rufer7/rufer7.github.io.svg?branch=m
 
 This is my personal blog hosted by GitHub Pages. Here I publish blog posts about different topics concerning computer science. Furthermore I will use it as a knowledge base.
 
-[visit](http://rufer7.github.io/)
+[visit Blog](http://rufer7.github.io/)
 
 
 [Information about GitHub Pages](https://help.github.com/categories/github-pages-basics/)
