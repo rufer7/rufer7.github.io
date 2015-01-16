@@ -1,6 +1,6 @@
 ---
 layout: post
-category: reader-experience
+category: reader-experiences
 title: AngularJS
 date: 06 Jan 2015
 tags: AngularJS book reader-experience
