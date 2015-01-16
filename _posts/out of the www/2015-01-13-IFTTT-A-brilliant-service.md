@@ -1,6 +1,6 @@
 ---
 layout: post
-category: knowledge-base
+category: out of the www
 title: IFTTT A brilliant service
 date: 13 Jan 2015
 tags: IFTTT rss socialmedia
