@@ -4,7 +4,14 @@ a:link {
 }
 
 /* unvisited link in posts */
-#posts a:link { font-weight: bold; }
+#posts a:link {
+    font-weight: bold;
+}
+
+/* unvisited link in navigations */
+.nav-pills a:link, .nav a:link, .navbar-brand a:link {
+    font-weight: bold;
+}
 
 /* visited link */
 a:visited {
