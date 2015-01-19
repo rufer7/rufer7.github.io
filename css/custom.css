@@ -3,6 +3,9 @@ a:link {
     color: #000000;
 }
 
+/* unvisited link in posts */
+#posts a:link { font-weight: bold; }
+
 /* visited link */
 a:visited {
     color: #000000;
