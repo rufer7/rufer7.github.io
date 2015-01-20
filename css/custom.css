@@ -24,6 +24,7 @@ a:hover {
     text-decoration: none;
 }
 
+/* Navigation title */
 .nav-title {
     font-weight: bold;
 }
@@ -32,10 +33,6 @@ a:hover {
 .nav-pills>li.active>a:hover,
 .nav-pills>li.active>a:focus {
     background-color: #000000;
-}
-
-.footer {
-    margin-top: 10px;
 }
 
 .inline-img-left {
@@ -48,10 +45,20 @@ a:hover {
     display: block;
 }
 
+.panel-title {
+    font-weight: bold;
+}
+
 .post {
     padding-top: 25px;
 }
 
-.panel-title {
-    font-weight: bold;
+.markdown-body>pre,
+.markdown-body>p {
+    margin: 10px;
+    font-size: 90%;
+}
+
+.footer {
+    margin-top: 10px;
 }
