@@ -13,7 +13,7 @@
 
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                {% assign sorted_pages = (site.pages | sort: 'title') %}
+                {% assign sorted_pages = (site.pages | sort: 'title' | where: "layout", "default") %}
                 {% for nav_entry in sorted_pages %}
                     {% if page.url == nav_entry.url %}
                         <li class="active"><a href="{{nav_entry.url}}" class="active">{{nav_entry.title}}</a></li>
