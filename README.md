@@ -4,6 +4,7 @@ Blog
 [![Security](https://hakiri.io/github/rufer7/rufer7.github.io/master.svg)](https://hakiri.io/github/rufer7/rufer7.github.io/master)
 [![Releases](https://img.shields.io/github/release/rufer7/rufer7.github.io.svg)](https://github.com/rufer7/rufer7.github.io/releases)
 
+
 This is my personal blog hosted by GitHub Pages. Here I publish blog posts about different topics concerning computer science. Furthermore I will use it as a knowledge base.
 
 [visit Blog](http://rufer7.github.io/)
@@ -28,6 +29,7 @@ Local Jenkyll setup
 Follow this [guide](https://help.github.com/articles/using-jekyll-with-pages/)
 
 If ruby is not working on Windows becuase of an ssl connection error try [this](https://gist.github.com/luislavena/f064211759ee0f806c88)
+
 
 ### Run configuration in IntelliJ
 
