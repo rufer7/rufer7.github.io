@@ -41,6 +41,11 @@ a:hover {
     padding-right: 10px;
 }
 
+.img-default {
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
 .author-social {
     display: block;
 }

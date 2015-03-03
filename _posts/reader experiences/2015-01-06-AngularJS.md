@@ -26,5 +26,5 @@ The next part of the book is about client-server-communication, where different 
 Due to the frequent releases of new Angular versions some parts of the book are already a bit outdated. Although I learned a lot about AngularJS while reading the book. Especially I got interesting background information regarding the concepts and thoughts behind Angular. I like the way the authors care about testing. The examples always contain some testing examples too. In conclusion I would recommend this book to everybody, who wants to get in touch with AngularJS.
 
 <div>
-    <img src="{{ site.url }}/assets/angularjs_logo.png" alt="AngularJS-Logo"/>
+    <img src="{{ site.url }}/assets/logos/angularjs_logo.png" alt="AngularJS-Logo"/>
 </div>
