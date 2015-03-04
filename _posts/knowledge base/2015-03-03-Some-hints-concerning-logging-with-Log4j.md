@@ -40,7 +40,7 @@ The first line sets the log level for the package `org.web.rufer.sample` to `DEB
 
 #### Performance optimization
 
-To optimize logging performance it's advisable to use the methods, which take a string with placeholders and a list of objects as parameters (see `Sample 2` and `Sample 3`). The advantage to use the placeholder variant instead of method with string parameter like in `Sample 3` is, that the toString()-method of object arguments will only be evaluated, if the corresponding log level is activated. In `Sample 1` the String will be built in every case. If you have a lot of debug logs with rich toString-logic this could be an issue.
+To optimize logging performance it's advisable to use the methods, which take a string with placeholders and a list of objects as parameters (see `Sample 2` and `Sample 3`). The advantage to use the placeholder variant instead of method with string parameter like in `Sample 1` is, that the toString()-method of object arguments will only be evaluated, if the corresponding log level is activated. In `Sample 1` the String will be built in every case. If you have a lot of debug logs with rich toString-logic this could be an issue.
 {% gist 10ee4cf3aa31c5de3b7e %}
 
 For more information about Log4j consult the [Log4j manual](http://logging.apache.org/log4j/2.x/manual/index.html)
