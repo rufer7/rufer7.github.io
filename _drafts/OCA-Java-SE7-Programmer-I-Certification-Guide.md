@@ -15,3 +15,4 @@ Text
 - Compiler stuff
 - StringBuilder vs. StringBuffer
 - try with resources block
+- Array-Specific stuff
