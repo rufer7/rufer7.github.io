@@ -2,7 +2,7 @@
 layout: post
 category: reader-experiences
 title: OCA Java SE 7 Programmer I Certification Guide
-date: 03 Mar 2015
+date: dd MMM YYYY
 tags: Java programming book reader-experience
 ---
 

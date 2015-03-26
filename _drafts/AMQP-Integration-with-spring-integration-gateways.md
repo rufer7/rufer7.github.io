@@ -2,7 +2,7 @@
 layout: post
 category: knowledge-base
 title: AMQP Integration with spring integration gateways
-date: 07 Mar 2015
+date: dd MMM YYYY
 tags: Java spring spring-integration AMQP RabbitMQ
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 category: knowledge-base
 title: Rest error handling with spring
-date: 15 Mar 2015
+date: dd MMM YYYY
 tags: Java spring RESTful
 ---
 
