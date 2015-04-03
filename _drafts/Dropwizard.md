@@ -10,3 +10,5 @@ Excerpt
 
 
 Text
+http://www.dropwizard.io/
+http://www.dropwizard.io/manual/index.html

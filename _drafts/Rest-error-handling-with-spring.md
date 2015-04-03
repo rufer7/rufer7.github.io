@@ -10,3 +10,4 @@ Excerpt
 
 
 Text
+http://www.baeldung.com/2013/01/31/exception-handling-for-rest-with-spring-3-2/
