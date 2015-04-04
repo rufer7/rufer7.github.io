@@ -2,7 +2,7 @@
 layout: post
 category: knowledge-base
 title: IntelliJ - Setup inspection profiles
-date: 06 Apr 2015
+date: 07 Apr 2015
 tags: IntelliJ IDEA JetBrains inspection-profiles
 ---
 

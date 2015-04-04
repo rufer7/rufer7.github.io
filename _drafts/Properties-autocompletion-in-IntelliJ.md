@@ -2,7 +2,7 @@
 layout: post
 category: knowledge-base
 title: Properties autocompletion in IntelliJ
-date: 05 Apr 2015
+date: 06 Apr 2015
 tags: IntelliJ IDEA JetBrains
 ---
 
