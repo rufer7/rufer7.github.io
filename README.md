@@ -2,6 +2,7 @@ Blog
 ===
 [![Build Status](https://travis-ci.org/rufer7/rufer7.github.io.svg?branch=master)](https://travis-ci.org/rufer7/rufer7.github.io)
 [![Security](https://hakiri.io/github/rufer7/rufer7.github.io/master.svg)](https://hakiri.io/github/rufer7/rufer7.github.io/master)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rufer7/rufer7.github.io/blob/master/LICENSE)
 [![Releases](https://img.shields.io/github/release/rufer7/rufer7.github.io.svg)](https://github.com/rufer7/rufer7.github.io/releases)
 
 
