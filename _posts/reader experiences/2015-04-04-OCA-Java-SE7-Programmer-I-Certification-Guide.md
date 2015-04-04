@@ -81,18 +81,24 @@ Let's now have a look what happens, if the following code will be executed:
   </code>
 </pre>
 
-
 `employee.calculateSalary()` will execute the calculateSalary-method of FullTimeEmployee because method invocation in Java is resolved by instance type. If accessing instance variables it's the other way around, so employee.name will return the value of the instance variable of the super class as well, if the object of the subclass (in this case FullTimeEmployee) provides as well an instance variable called `name`.
 
 
 #### Try with resources
 
+Last but not least the exam preparation guide learnt me something about try-blocks I didn't know before. Since Java 7 there is a possibility to declare resources directly in the try-statement. The advantage of that way of declaration is, that the JVM automatically handles the closing of such resources. The only condition is, that such a resource has to implement the `AutoCloseable`-interface. 
+
+Below a short example
+
 <pre>
   <code class="java">
-    public void doSomething() {
+    try (BufferedReader br = new BufferedReader(new FileReader(path))) {
+        return br.readLine();
     }
   </code>
 </pre>
+
+For more details have a look at the [Java documentation](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html)
 
 
 ### Recommendation
