@@ -1,0 +1,11 @@
+rufer7 rufer7.github.io
+Copyright 2014-2015 Marc Rufer
+
+This product includes software developed by
+Marc Rufer (https://github.com/rufer7)
+
+The rufer7.github.io project depends on:
+jekyll (http://jekyllrb.com) - MIT License
+font awesome (fortawesome.github.io) - SIL OFL 1.1
+html-proofer (https://github.com/gjtorikian/html-proofer) - MIT License
+jekyll-gist (https://github.com/jekyll/jekyll-gist) - MIT
