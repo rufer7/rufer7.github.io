@@ -3,7 +3,7 @@ layout: post
 category: reader-experiences
 title: OCA Java SE 7 Programmer I Certification Guide
 date: 04 Apr 2015
-tags: Java programming book reader-experience
+tags: Java development book reader-experience
 ---
 
 As recommended to prepare for the Java SE7 associate programmer certification I read the certification guide written by Mala Gupta. In this post I would like to go into the most interesting things treated by this book.

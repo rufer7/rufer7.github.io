@@ -3,7 +3,7 @@ layout: post
 category: out-of-the-www
 title: IFTTT A brilliant service
 date: 13 Jan 2015
-tags: IFTTT rss socialmedia
+tags: IFTTT RSS socialmedia
 ---
 
 IFTTT.com, a brilliant service for everybody for triggering actions based on channels. While searching for a possibility to automatically post and tweet new items of an RSS-Feed a friend has recommended me IFTTT.
