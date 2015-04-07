@@ -1,7 +1,7 @@
 ---
 layout: post
 category: knowledge-base
-title: Flyway
+title: First steps with Flyway
 date: dd MMM YYYY
 tags:
 ---
