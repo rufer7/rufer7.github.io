@@ -2,7 +2,7 @@
 layout: post
 category: knowledge-base
 title: First steps with Flyway
-date: 09 Apr 2015
+date: 12 Apr 2015
 tags: database migration Flyway maven development
 ---
 
