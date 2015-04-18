@@ -45,6 +45,12 @@ h4 {
     padding-right: 10px;
 }
 
+.inline-img-right {
+    float: right;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+
 .img-default {
     padding-top: 5px;
     padding-bottom: 10px;
