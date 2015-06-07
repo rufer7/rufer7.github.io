@@ -36,7 +36,7 @@ Similar to spring boot you have to define an application class, which has to ext
 
 * Representation class
 {% gist cc32aa881386bdeb41e8 %}
-This class is optional, but was added to wrap the REST responses to fulfill the RFC 1149 industry standard, which specifies the JSON representation (id and content).
+This class is optional, but was added to wrap the REST responses into a common top level object, which always contains an id and a data object.
 
 * Resource class
 {% gist 0242b89c7f14879df2de %}
