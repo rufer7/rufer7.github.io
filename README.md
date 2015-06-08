@@ -6,12 +6,10 @@ Blog
 [![Releases](https://img.shields.io/github/release/rufer7/rufer7.github.io.svg)](https://github.com/rufer7/rufer7.github.io/releases)
 
 
-This is my personal blog hosted by GitHub Pages. Here I publish blog posts about different topics concerning computer science. Furthermore I will use it as a knowledge base.
+This is my personal blog hosted by GitHub Pages. Here I publish blog posts about different topics concerning computer science. Furthermore I'll use it as a knowledge base.
 
-[visit Blog](http://rufer7.github.io/)
-
-
-[Information about GitHub Pages](https://help.github.com/categories/github-pages-basics/)
+* [visit Blog](http://rufer7.github.io/)
+* [Information about GitHub Pages](https://help.github.com/categories/github-pages-basics/)
 
 
 License
@@ -44,4 +42,4 @@ Create new run configuration of type `Batch` with the following settings
     Working directory:  ${PROJECT_ROOT}
 
 
-If you execute this run configuration you can then access the blog over `localhost:4000`
+If you execute this run configuration you can then access the blog under `localhost:4000`
