@@ -33,7 +33,7 @@ To integrate pylint into IntelliJ IDEA 14 open your IDEA and go to Settings (`Ct
 
   <img src="{{ site.url }}/assets/screenshots/pylint-integration-IntelliJ-3.png" alt="pylint integration screnshot 3"/>
 
-
+<br>
 
 Now as you are done you can execute pylint over the `Tools` menu
 <img src="{{ site.url }}/assets/screenshots/pylint-integration-IntelliJ-5.png" alt="pylint integration screnshot 4"/>
