@@ -27,7 +27,7 @@ To integrate pylint into IntelliJ IDEA 14 open your IDEA and go to Settings (`Ct
 
   <img src="{{ site.url }}/assets/screenshots/pylint-integration-IntelliJ-2.png" alt="pylint integration screnshot 2" height="409" width="501"/>
 
-In tool settings section you have to add the path to your `pylint.exe` file to the programm textfield. Referencing pylint.bat won't work.
+  In tool settings section you have to add the path to your `pylint.exe` file to the programm textfield. Referencing pylint.bat won't work.
 
 * Add a new Output Filter
 
