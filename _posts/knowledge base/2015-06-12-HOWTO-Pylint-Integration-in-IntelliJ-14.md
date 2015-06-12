@@ -14,7 +14,7 @@ I presuppose that IntelliJ 14, [python](https://www.python.org/) and pylint are 
 * C:\python27
 * C:\python27\Scripts
 
-
+<br>
 
 To integrate pylint into IntelliJ IDEA 14 open your IDEA and go to Settings (`Ctrl` + `Alt` + `s`)
 
