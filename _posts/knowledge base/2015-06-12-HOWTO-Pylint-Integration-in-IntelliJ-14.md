@@ -40,4 +40,5 @@ Now as you are done you can execute pylint over the `Tools` menu
 
 The result of the pylint code analysis will then be printed to the run console in IntelliJ.
 
+<br>
 For more details and for Linux based configuration see [here](ref http://sysmagazine.com/posts/163227/)
