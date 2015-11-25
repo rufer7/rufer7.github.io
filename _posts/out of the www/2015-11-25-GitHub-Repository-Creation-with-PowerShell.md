@@ -44,15 +44,3 @@ Sample invocation
 ```
 PS C:\PS.GitHub.RepoCreator\src> .\New-GitHubRepo.ps1 -RepoName 'NAME' -RepoDescription 'DESCRIPTION'
 ```
-
-##### Config.xml
-
-```
-<?xml version="1.0"?>
-<Configuration>
-	<GitHub>
-		<Username>USERNAME</Username>
-		<Token>TOKEN</Token>
-	</GitHub>
-</Configuration>
-```
