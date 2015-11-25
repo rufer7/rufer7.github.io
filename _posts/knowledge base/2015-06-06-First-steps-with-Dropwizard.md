@@ -9,7 +9,7 @@ tags: RESTful Dropwizard Java development
 Once at work a friend asked me, if I know dropwizard. I have never heard about it before, so I decided to have a look at it and try it out. Dropwizard is a Java framework for development of high-performance RESTful web services.
 
 
-To get in touch with dropwizard I went through the [getting started guide](http://www.dropwizard.io/0.9.1/docs/getting-started.htmll). I created a new [repository at GitHub](https://github.com/rufer7/dropwizard-example), where I checked in the source code I wrote while going through the getting started guide.
+To get in touch with dropwizard I went through the [getting started guide](http://www.dropwizard.io/0.9.1/docs/getting-started.html). I created a new [repository at GitHub](https://github.com/rufer7/dropwizard-example), where I checked in the source code I wrote while going through the getting started guide.
 
 
 #### Under the hood
@@ -46,7 +46,7 @@ There is a possibility to create custom health check classes, which expose healt
 
 It's recommended to build Dropwizard application as FAT-jars. How to do that using Maven is described in the [getting started guide](http://www.dropwizard.io/getting-started.html).
 
-For more details have a look at [my example project @GitHub](https://github.com/rufer7/dropwizard-example) and into the [getting started guide](http://www.dropwizard.io/getting-started.html).
+For more details have a look at [my example project @GitHub](https://github.com/rufer7/dropwizard-example) and into the [getting started guide](http://www.dropwizard.io/0.9.1/docs/getting-started.html).
 
 
 #### Conclusion
@@ -58,5 +58,5 @@ Especially impressive was the out of the box operational tools (metrics, thread 
 
 * [My example project @GitHub](https://github.com/rufer7/dropwizard-example)
 * [Dropwizard.io](http://www.dropwizard.io)
-* [Dropwizard getting started](http://www.dropwizard.io/getting-started.html)
+* [Dropwizard getting started](http://www.dropwizard.io/0.9.1/docs/getting-started.htmll)
 * [Dropwizard user manual](http://www.dropwizard.io/0.9.1/docs/manual/index.html)
