@@ -6,6 +6,7 @@ highlighter: rouge
 github: [Repository metadata]
 timezone: Europe/Zurich
 exclude: [jekyll_serve.bat, jekyll_update.bat]
+gems: [github-pages, font-awesome-less, html-proofer, jekyll-gist]
 
 defaults:
   -
