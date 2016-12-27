@@ -2,7 +2,7 @@
 
 title: blog.rufer.be
 permalink: /blog/:categories/:title.html
-highlighter: pygments
+highlighter: rouge
 github: [Repository metadata]
 timezone: Europe/Zurich
 exclude: [jekyll_serve.bat, jekyll_update.bat]
