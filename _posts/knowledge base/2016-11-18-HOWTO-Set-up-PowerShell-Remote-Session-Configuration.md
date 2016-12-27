@@ -23,14 +23,14 @@ To set up the PowerShell remote session configuration on the `Target` the follow
 ```Powershell
 Enable-PSRemoting -Force;
 
-#### Configure WinRM to use HTTPS
+# Configure WinRM to use HTTPS
 winrm quickconfig -transport:https;
 netsh firewall add portopening TCP 5986 "WinRM over HTTPS";
 
-#### Register PowerShell session configuration
+# Register PowerShell session configuration
 Register-PSSessionConfiguration -Name PSSESSION_CONFIG_NAME -RunAsCredential CREDENTIAL_TO_RUN_CMDS_WITH -ShowSecurityDescriptorUI;
 
-#### Assign X.509 certificate to WinRM listener
+# Assign X.509 certificate to WinRM listener
 $Thumbprint = (Get-ChildItem -Path Cert:\LocalMachine\My | Where-Object {$_.Subject -match "CERT_NAME"}).Thumbprint;
 winrm set winrm/config/Listener?Address=*+Transport=HTTPS '@{Hostname="FULL_QUALIFIED_DOMAIN_NAME";CertificateThumbprint="THUMBPRINT_HERE"}';
 ```
