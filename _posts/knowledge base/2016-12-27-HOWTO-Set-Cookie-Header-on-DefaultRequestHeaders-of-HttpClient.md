@@ -13,10 +13,10 @@ We then tried to manually add the `Cookie` header with the session token as valu
 ```CSharp
 using (var httpClient = new HttpClient())
 {
-var uri = new Uri("http://www.example.com");
-httpClient.BaseAddress = uri;
-httpClient.DefaultRequestHeaders.Add("Cookie", "auth=ArbitrarySessionToken");
-var response = httpClient.GetAsync(uri).Result;
+	var uri = new Uri("http://www.example.com");
+	httpClient.BaseAddress = uri;
+	httpClient.DefaultRequestHeaders.Add("Cookie", "auth=ArbitrarySessionToken");
+	var response = httpClient.GetAsync(uri).Result;
 }
 ```
 
@@ -25,9 +25,9 @@ Adding the `Cookie` header to the `DefaultRequestHeaders` worked fine without an
 ```CSharp
 using (var httpClient = new HttpClient(new HttpClientHandler { UseCookies = false }))
 {
-var uri = new Uri("http://www.example.com");
-httpClient.BaseAddress = uri;
-httpClient.DefaultRequestHeaders.Add("Cookie", "auth=ArbitrarySessionToken");
-var response = httpClient.GetAsync(uri).Result;
+	var uri = new Uri("http://www.example.com");
+	httpClient.BaseAddress = uri;
+	httpClient.DefaultRequestHeaders.Add("Cookie", "auth=ArbitrarySessionToken");
+	var response = httpClient.GetAsync(uri).Result;
 }
 ```
