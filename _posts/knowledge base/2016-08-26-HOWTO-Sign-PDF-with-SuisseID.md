@@ -15,17 +15,20 @@ After a few non successful retries I thought about opening the PDF with another 
   <a href="{{ site.url }}/assets/screenshots/sign-pdf-with-suisseid-1.png" target="_blank">
     <img src="{{ site.url }}/assets/screenshots/sign-pdf-with-suisseid-1.png" alt="Screenshot - Sign PDF with SuisseID" border="1">
   </a>
+
 1. Go to `Signature` and select `Sign`
 
   <a href="{{ site.url }}/assets/screenshots/sign-pdf-with-suisseid-2.png" target="_blank">
     <img src="{{ site.url }}/assets/screenshots/sign-pdf-with-suisseid-2.png" alt="Screenshot - Sign PDF with SuisseID" border="1">
   </a>
+
 1. Click at the place in the document you want to place your signature
 1. Click `Sign` button
 
   <a href="{{ site.url }}/assets/screenshots/sign-pdf-with-suisseid-3.png" target="_blank">
     <img src="{{ site.url }}/assets/screenshots/sign-pdf-with-suisseid-3.png" alt="Screenshot - Sign PDF with SuisseID" border="1">
   </a>
+
 1. Enter your SuisseID password
 1. Select the location you want to save your signed PDF to
 
