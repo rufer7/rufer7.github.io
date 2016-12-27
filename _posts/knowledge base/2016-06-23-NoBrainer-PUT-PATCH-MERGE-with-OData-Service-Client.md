@@ -1,7 +1,7 @@
 ---
 layout: post
 category: knowledge-base
-title: Apply Commit from one Repository to another
+title: NoBrainer PUT/PATCH/MERGE with OData Service Client
 date: 23 Jun 2016
 tags: .NET C# OData
 ---
@@ -15,11 +15,13 @@ When updating objects using the data service client the client by default sends 
 If desired the default behaviour can be easily changed. To do PUT or PATCH requests instead of MERGE the `SaveChangesDefaultOptions` have to be changed as shown below.
 
 #### PUT
+
 ```C#
-<code>container.SaveChangesDefaultOptions = System.Data.Services.Client.SaveChangesOptions.ReplaceOnUpdate;
+container.SaveChangesDefaultOptions = System.Data.Services.Client.SaveChangesOptions.ReplaceOnUpdate;
 ```
 
 #### PATCH
+
 ```C#
 container.SaveChangesDefaultOptions = System.Data.Services.Client.SaveChangesOptions.PatchOnUpdate;
 ```
