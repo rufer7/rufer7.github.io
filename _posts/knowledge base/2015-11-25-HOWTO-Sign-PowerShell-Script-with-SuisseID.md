@@ -20,7 +20,7 @@ To sign code with your SuisseId using PowerShell your SuisseId has to be install
 1. In `General` tab select the radio button `Enable only the following purposes`
 1. Apply
 1. Open a new PowerShell session (Run as administrator)
-1. Get your code signing certificate by esecuting the following command
+1. Get your code signing certificate by executing the following command
   
     ```$cert = Get-ChildItem cert:\CurrentUser\my -CodeSigningCert```
 
