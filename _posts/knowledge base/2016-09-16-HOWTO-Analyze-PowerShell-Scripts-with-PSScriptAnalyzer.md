@@ -23,27 +23,27 @@ The easiest way to install the `PSScriptAnalyzer` is, by using the `Install-Modu
 
 * Analyze a single PowerShell file
 
-```
-Invoke-ScriptAnalyzer -Path PATH_TO_SCRIPT_FILE
-```
+  ```
+  Invoke-ScriptAnalyzer -Path PATH_TO_SCRIPT_FILE
+  ```
 
 * Analyze all PowerShell files in a specific folder and its sub folders
 
-```
-Invoke-ScriptAnalyzer -Path PATH_TO_SCRIPT_FOLDER -Recurse
-```
+  ```
+  Invoke-ScriptAnalyzer -Path PATH_TO_SCRIPT_FOLDER -Recurse
+  ```
 
 * Exclude some rules from the analysis
 
-```
-Invoke-ScriptAnalyzer -Path PATH_TO_SCRIPT_FOLDER -Recurse -ExcludeRule "PSAvoidUsingCmdletAliases", "PSAvoidGlobalVars"
-```
+  ```
+  Invoke-ScriptAnalyzer -Path PATH_TO_SCRIPT_FOLDER -Recurse -ExcludeRule "PSAvoidUsingCmdletAliases", "PSAvoidGlobalVars"
+  ```
 
 * Do analysis by applying only one specific rule
 
-```
-Invoke-ScriptAnalyzer -Path PATH_TO_SCRIPT_FOLDER -Recurse -IncludeRule "PSAvoidGlobalVars"
-```
+  ```
+  Invoke-ScriptAnalyzer -Path PATH_TO_SCRIPT_FOLDER -Recurse -IncludeRule "PSAvoidGlobalVars"
+  ```
 
 #### Suppress
 
