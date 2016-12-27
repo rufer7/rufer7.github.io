@@ -6,7 +6,7 @@ date: 26 Aug 2016
 tags: SuisseID
 ---
 
-Today I had some troubles signing a PDF document with my [SuisseID](https://suisseid.ch) (Smart card version). I first tried to sign the PDF document by using Adobe Acrobat Reader DC. Unfortunately the Adobe Acrobat Reader DC started hanging during the saving process of the signed document. Nevertheless the document got saved but the signature was invalid.
+Today I had some troubles signing a PDF document with my [SuisseID](http://suisseid.ch) (Smart card version). I first tried to sign the PDF document by using Adobe Acrobat Reader DC. Unfortunately the Adobe Acrobat Reader DC started hanging during the saving process of the signed document. Nevertheless the document got saved but the signature was invalid.
 
 After a few non successful retries I thought about opening the PDF with another PDF program and strumbled over the solution. Signing a PDF document can be easily done by using the [SwissSigner Software](https://postsuisseid.ch/de/support/application) that can be downloaded [here](https://postsuisseid.ch/de/support/application). I'll show you step by step how to sign a PDF with the SwissSigner software
 
