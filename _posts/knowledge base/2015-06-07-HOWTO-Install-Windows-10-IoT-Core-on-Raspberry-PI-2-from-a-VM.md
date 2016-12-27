@@ -19,5 +19,5 @@ Putting the Windows 10 IoT Core version on the SD card was more difficult. Accor
 #### Links
 
 * [RaspberryPI.org Downloads](https://www.raspberrypi.org/downloads/)
-* [Get started with Windows 10 IoT Core and Raspberry PI 2](http://ms-iot.github.io/content/en-US/win10/SetupRPI.htm)
+* [Get started with Windows 10 IoT Core and Raspberry PI 2](https://developer.microsoft.com/de-de/windows/iot/Docs/GetStarted/rpi2/sdcard/stable/GetStartedStep1.htm)
 * [Ben Emmets post](https://www.simple-talk.com/blogs/2015/05/03/setting-up-windows-10-iot-core-on-raspberry-pi-from-a-vm/#.VXGrn8SpFsI.twitter)
