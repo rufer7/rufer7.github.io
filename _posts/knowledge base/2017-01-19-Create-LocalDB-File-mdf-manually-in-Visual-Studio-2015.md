@@ -15,6 +15,6 @@ If you are using **LocalDB** and want to create an empty database you should per
   Replace `|DataDirectory|` with path to the place the database file should be created at (i.e. `App_Data`)
 1. Select `Advanced` and set the properties according to the following example connection string
 
-  ```
-  Data Source=(localdb)\v11.0; Initial Catalog=Arbitrary; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=C:\PATH\TO\Arbitrary.mdf
-  ```
+	```
+	Data Source=(localdb)\v11.0; Initial Catalog=Arbitrary; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=C:\PATH\TO\Arbitrary.mdf
+	```
