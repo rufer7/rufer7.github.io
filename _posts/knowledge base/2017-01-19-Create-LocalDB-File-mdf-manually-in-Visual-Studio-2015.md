@@ -8,7 +8,7 @@ tags: SQL VisualStudio
 
 If you are using **LocalDB** and want to create an empty database you should perform the following steps.
 
-1. Go to Visual Studio `Server Explorer` -> `Data Connections`
+1. Go to Visual Studio `Server Explorer` > `Data Connections`
 1. Select `Add Connection` from the context menu
 1. Change `Data Source` to `Microsoft SQL Server Database File` (i.e. LocalDB)
 1. Set the `Database file name` by entering a database name and path that corresponds to the name in the `web.config`/`app.config` connectionstring.
