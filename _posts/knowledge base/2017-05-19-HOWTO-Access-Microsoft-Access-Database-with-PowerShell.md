@@ -6,7 +6,7 @@ date: 19 May 2017
 tags: ODBC PowerShell
 ---
 
-In one of our current projects we had to access a Microsoft Access Database (`.mdb`) with PowerShell. I first tried to access the `.mdb` using the `Invoke-SqlCmd` Cmdlet from our PowerShell module [`biz.dfch.PS.System.Data`](https://github.com/dfch/biz.dfch.PS.System.Data). Unfortunately connecting to the Access database with the `Invoke-SqlCmd` Cmdlet does not work as it uses `SqlClient` from the C#/.NET namespace `System.Data` under the hood. 
+In one of my projects at work I had to access a Microsoft Access Database (`.mdb`) with PowerShell. I first tried to access the `.mdb` using the `Invoke-SqlCmd` Cmdlet from our PowerShell module [`biz.dfch.PS.System.Data`](https://github.com/dfch/biz.dfch.PS.System.Data). Unfortunately connecting to the Access database with the `Invoke-SqlCmd` Cmdlet does not work as it uses `SqlClient` from the C#/.NET namespace `System.Data` under the hood. 
 
 After a short internet research I figured out, that I have to use `System.Data.Odbc` or `System.Data.OleDb` from the C#/.NET namespace `System.Data`. I decided to use `System.Data.Odbc` and extended our current PowerShell module [`biz.dfch.PS.System.Data`](https://github.com/dfch/biz.dfch.PS.System.Data) accordingly. From version `2.0.0` the module [`biz.dfch.PS.System.Data`](https://github.com/dfch/biz.dfch.PS.System.Data) has a new Cmdlet called `Invoke-OdbcCmd`. The `Invoke-OdbcCmd` Cmdlet can be used to invoke commands against different databases that support `ODBC`.
 
