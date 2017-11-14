@@ -6,7 +6,7 @@ date: 11 Aug 2017
 tags: Microsoft OneDrive Scheduled-Task Synchronisation
 ---
 
-In a project for one of our customers at work I used [Microsoft OneDrive](https://onedrive.live.com) for data synchronisation. The data gets collected on a tablet and the folder containing the data will be synchronized with OneDrive. On the other side there is a Windows Server that needs to move the data from OneDrive to a network drive.
+In a project for one of our customers we used [Microsoft OneDrive](https://onedrive.live.com) for data synchronisation. The data gets collected on a tablet and the folder containing the data will be synchronized with OneDrive. On the other side there is a Windows Server that needs to move the data from OneDrive to a network drive. 
 
 To get the data from OneDrive I installed the OneDrive Client Version 2016 (Build `17.3.6943.0625`) on the Server. Furthermore I created a scheduled task that executes a PowerShell script to copy the files from the synchronized OneDrive folder to the network drive. Unfortunately OneDrive only runs synchronization if the user, the OneDrive client was installed with, is logged in to Windows. As the user does not log in to the server regularly and because there is no possibilty to reconfigure OneDrive to allow synchronization even if the user is not logged in, I had to find a way to regularly synchronize the OneDrive folder. After a few tries I succeeded by creating a scheduled task that starts and stops OneDrive.exe on a given schedule.
 
