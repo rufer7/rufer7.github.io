@@ -11,6 +11,7 @@ There is a bug in Task Scheduler of Windows 10. If the network condition of a Sc
 <a href="{{ site.url }}/assets/screenshots/2017-11-13-scheduledtask-conditions.png"><img src="{{ site.url }}/assets/screenshots/2017-11-13-scheduledtask-conditions.png" alt="Scheduled Task - Conditions" /></a>
 
 Click `Ok` and try to run the before edited Scheduled Task manually (right click on Scheduled Task -&gt; `Run`). When doing so the following error message pops up:
+
 `Task Scheduler service is not available. Task Scheduler will attempt to reconnect to it.`
 
 <a href="{{ site.url }}/assets/screenshots/2017-11-13-scheduledtask-error-message.png"><img src="{{ site.url }}/assets/screenshots/2017-11-13-scheduledtask-error-message.png" alt="Scheduled Task - Error Message" /></a>
