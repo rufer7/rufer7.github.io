@@ -6,7 +6,7 @@ date: 12 Jun 2015
 tags: IntelliJ IDEA JetBrains python Pylint
 ---
 
-I was asked, if it's possible to integrate [pylint](http://www.pylint.org/) into JetBrains IntelliJ IDEA 14. After having a quick look at Google I found a [blog post](http://developers-club.com/posts/163227/) about the integration of pylint. The mentioned blog post references an older IntelliJ version and the author runs IntelliJ on Linux. Because I run IntelliJ 14 on Windows I decided to shortly describe the configuration for this combination here.
+I was asked, if it's possible to integrate [pylint](https://www.pylint.org/) into JetBrains IntelliJ IDEA 14. After having a quick look at Google I found a [blog post](http://developers-club.com/posts/163227/) about the integration of pylint. The mentioned blog post references an older IntelliJ version and the author runs IntelliJ on Linux. Because I run IntelliJ 14 on Windows I decided to shortly describe the configuration for this combination here.
 
 
 I presuppose that IntelliJ 14, [python](https://www.python.org/) and pylint are installed and that the following path are added to the Windows `PATH` variable (Paths depend on the installation location)
