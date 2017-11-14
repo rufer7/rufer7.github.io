@@ -15,14 +15,14 @@ After reading a blog post about the database migration tool [Flyway](http://flyw
     <img src="{{ site.url }}/assets/logos/flyway_logo.png" alt="Flyway logo"/>
 </div>
 
-A short introduction about database migrations can be found [here](http://flywaydb.org/getstarted/why.html). To get some basic information about Flyway and how it works have a look at [How Flyway works @Flywaydb.org](http://flywaydb.org/getstarted/how.html).
+A short introduction about database migrations can be found [here](https://flywaydb.org/getstarted/why.html). To get some basic information about Flyway and how it works have a look at [How Flyway works @Flywaydb.org](http://flywaydb.org/getstarted/how.html).
 
-For more details have a look at the [Flyway documentation](http://flywaydb.org/documentation)
+For more details have a look at the [Flyway documentation](https://flywaydb.org/documentation)
 
 
 #### Getting started
 
-To set up the sample project I had a look into the [Get started with maven guide](http://flywaydb.org/getstarted/firststeps/maven.html). With the information provided there the setup was straight forward. The configuration of the maven plugin is pretty intelligible and the configuration tags are documented well.
+To set up the sample project I had a look into the [Get started with maven guide](https://flywaydb.org/getstarted/firststeps/maven.html). With the information provided there the setup was straight forward. The configuration of the maven plugin is pretty intelligible and the configuration tags are documented well.
 
 Below you can see the pom-file of my sample project
 
@@ -47,6 +47,6 @@ Furthermore the flyway website provides a lot of information around flyway, whic
 
 #### Links
 
-* [Flyway documentation](http://flywaydb.org/documentation)
-* [Existing DB setup](http://flywaydb.org/documentation/existing.html)
+* [Flyway documentation](https://flywaydb.org/documentation)
+* [Existing DB setup](https://flywaydb.org/documentation/existing.html)
 * [Spring boot integration of flyway](http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#howto-execute-flyway-database-migrations-on-startup)
