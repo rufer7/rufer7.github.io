@@ -56,7 +56,9 @@ Last but not least the Scheduled Task, that executes the data transfer script, h
 
 1. Open `Task Scheduler`
 1. Create new task
+
     `Action` &gt; `Create Task...`
+
 1. General Settings
     * Enter Name
     * Select `Run wheter user is logged in or not`
