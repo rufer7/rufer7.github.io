@@ -1,3 +1,3 @@
 #! /bin/bash
 
-jekyll build && htmlproofer ./_site
+jekyll build && htmlproofer --external_only ./_site
