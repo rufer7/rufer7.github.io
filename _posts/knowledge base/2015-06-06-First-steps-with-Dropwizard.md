@@ -44,9 +44,9 @@ The resource class describes the REST resource and is associated with an URI tem
 
 There is a possibility to create custom health check classes, which expose health check data to the operation tools.
 
-It's recommended to build Dropwizard application as FAT-jars. How to do that using Maven is described in the [getting started guide](http://www.dropwizard.io/0.9.1/docs/getting-started.html).
+It's recommended to build Dropwizard application as FAT-jars. How to do that using Maven is described in the [getting started](https://www.dropwizard.io/en/latest/getting-started.html).
 
-For more details have a look at [my example project @GitHub](https://github.com/rufer7/dropwizard-example) and into the [getting started guide](http://www.dropwizard.io/0.9.1/docs/getting-started.html).
+For more details have a look at [my example project @GitHub](https://github.com/rufer7/dropwizard-example) and into the [getting started](https://www.dropwizard.io/en/latest/getting-started.html).
 
 
 #### Conclusion
@@ -58,5 +58,5 @@ Especially impressive was the out of the box operational tools (metrics, thread 
 
 * [My example project @GitHub](https://github.com/rufer7/dropwizard-example)
 * [Dropwizard.io](http://www.dropwizard.io)
-* [Dropwizard getting started](http://www.dropwizard.io/0.9.1/docs/getting-started.html)
+* [Dropwizard getting started](https://www.dropwizard.io/en/latest/getting-started.html)
 * [Dropwizard user manual](https://www.dropwizard.io/en/latest/)
