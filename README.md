@@ -1,11 +1,11 @@
-Blog
-===
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rufer7/rufer7.github.io/blob/master/LICENSE)
-
 ___
 
 :warning:**This repository has been archived and is no longer maintained**:warning:
 ___
+
+Blog
+===
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rufer7/rufer7.github.io/blob/master/LICENSE)
 
 * [Visit Blog](https://rufer7.github.io/)
 * [Information about GitHub Pages](https://help.github.com/categories/github-pages-basics/)
