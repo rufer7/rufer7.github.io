@@ -1,14 +1,13 @@
 Blog
 ===
-[![Build Status](https://travis-ci.org/rufer7/rufer7.github.io.svg?branch=master)](https://travis-ci.org/rufer7/rufer7.github.io)
-[![Security](https://hakiri.io/github/rufer7/rufer7.github.io/master.svg)](https://hakiri.io/github/rufer7/rufer7.github.io/master)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rufer7/rufer7.github.io/blob/master/LICENSE)
-[![Releases](https://img.shields.io/github/release/rufer7/rufer7.github.io.svg)](https://github.com/rufer7/rufer7.github.io/releases)
 
+___
 
-This is my personal blog hosted by GitHub Pages. Here I publish blog posts about different topics concerning computer science. Furthermore I'll use it as a knowledge base.
+:warning:**This repository has been archived and is no longer maintained**:warning:
+___
 
-* [visit Blog](http://rufer7.github.io/)
+* [Visit Blog](https://rufer7.github.io/)
 * [Information about GitHub Pages](https://help.github.com/categories/github-pages-basics/)
 
 
